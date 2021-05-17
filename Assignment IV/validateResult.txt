@@ -1,0 +1,1024 @@
+Adding RM4CB with Key: 1040287997 to Index: 46
+Size of Table: 100
+Entries in Table: 1
+Time taken (Put): 0.202366
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding U5CNR with Key: 1699434864 to Index: 24
+Size of Table: 100
+Entries in Table: 2
+Time taken (Put): 0.011584
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding PT6ZT with Key: 2126808328 to Index: 28
+Size of Table: 100
+Entries in Table: 3
+Time taken (Put): 0.008952
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding SR6DO with Key: 725801394 to Index: 65
+Size of Table: 100
+Entries in Table: 4
+Time taken (Put): 0.008758
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding BOTKB with Key: 535110323 to Index: 81
+Size of Table: 100
+Entries in Table: 5
+Time taken (Put): 0.016347
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding JX6P7 with Key: 360203059 to Index: 5
+Size of Table: 100
+Entries in Table: 6
+Time taken (Put): 0.008449
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding B8NM1 with Key: 144570545 to Index: 7
+Size of Table: 100
+Entries in Table: 7
+Time taken (Put): 0.009783
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding HFTHY with Key: 877933549 to Index: 80
+Size of Table: 100
+Entries in Table: 8
+Time taken (Put): 0.008062
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding INF8E with Key: 429412753 to Index: 38
+Size of Table: 100
+Entries in Table: 9
+Time taken (Put): 0.006435
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding OU05G with Key: 497496071 to Index: 31
+Size of Table: 100
+Entries in Table: 10
+Time taken (Put): 0.009173
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding KU58O with Key: 1411564280 to Index: 79
+Size of Table: 100
+Entries in Table: 11
+Time taken (Put): 0.008162
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding GK3IK with Key: 1740016604 to Index: 76
+Size of Table: 100
+Entries in Table: 12
+Time taken (Put): 0.007904
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding BWYGJ with Key: 497921746 to Index: 20
+Size of Table: 100
+Entries in Table: 13
+Time taken (Put): 0.008092
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding 80BUS with Key: 1948309363 to Index: 16
+Size of Table: 100
+Entries in Table: 14
+Time taken (Put): 0.011203
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding CC6UJ with Key: 159234841 to Index: 48
+Size of Table: 100
+Entries in Table: 15
+Time taken (Put): 0.026566
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding GVG2S with Key: 510780110 to Index: 87
+Size of Table: 100
+Entries in Table: 16
+Time taken (Put): 0.008846
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding ESOJN with Key: 2101011869 to Index: 8
+Size of Table: 100
+Entries in Table: 17
+Time taken (Put): 0.008168
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding 3EDMQ with Key: 1231425366 to Index: 15
+Size of Table: 100
+Entries in Table: 18
+Time taken (Put): 0.011057
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding 6K9IW with Key: 1619231456 to Index: 58
+Size of Table: 100
+Entries in Table: 19
+Time taken (Put): 0.008772
+Collisions: 0
+Items in Bucket: 1
+
+
+Adding LPX2T with Key: 1407077235 to Index: 87
+Size of Table: 100
+Entries in Table: 20
+Time taken (Put): 0.073139
+Collisions: 1
+Items in Bucket: 2
+
+
+Adding 70SWR with Key: 1452609092 to Index: 93
+Size of Table: 100
+Entries in Table: 21
+Time taken (Put): 0.01158
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding T7GZO with Key: 117551804 to Index: 14
+Size of Table: 100
+Entries in Table: 22
+Time taken (Put): 0.010971
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding TNGKN with Key: 1343313579 to Index: 88
+Size of Table: 100
+Entries in Table: 23
+Time taken (Put): 0.008748
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding ZUM8N with Key: 2141153797 to Index: 30
+Size of Table: 100
+Entries in Table: 24
+Time taken (Put): 0.008644
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding JFVY5 with Key: 1216688706 to Index: 59
+Size of Table: 100
+Entries in Table: 25
+Time taken (Put): 0.010151
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding VKF82 with Key: 355661263 to Index: 10
+Size of Table: 100
+Entries in Table: 26
+Time taken (Put): 0.015963
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding COAAJ with Key: 1077838711 to Index: 21
+Size of Table: 100
+Entries in Table: 27
+Time taken (Put): 0.007428
+Collisions: 1
+Items in Bucket: 1
+
+
+Adding CWMWC with Key: 1385619087 to Index: 24
+Size of Table: 100
+Entries in Table: 28
+Time taken (Put): 0.008393
+Collisions: 2
+Items in Bucket: 2
+
+
+Adding QNV6L with Key: 1641150139 to Index: 83
+Size of Table: 100
+Entries in Table: 29
+Time taken (Put): 0.008222
+Collisions: 2
+Items in Bucket: 1
+
+
+Adding OD7EC with Key: 857023527 to Index: 43
+Size of Table: 100
+Entries in Table: 30
+Time taken (Put): 0.009001
+Collisions: 2
+Items in Bucket: 1
+
+
+Adding ONVX6 with Key: 940410648 to Index: 35
+Size of Table: 100
+Entries in Table: 31
+Time taken (Put): 0.008216
+Collisions: 2
+Items in Bucket: 1
+
+
+Adding B25U1 with Key: 398628108 to Index: 55
+Size of Table: 100
+Entries in Table: 32
+Time taken (Put): 0.009279
+Collisions: 2
+Items in Bucket: 1
+
+
+Adding 2TL8G with Key: 60518348 to Index: 55
+Size of Table: 100
+Entries in Table: 33
+Time taken (Put): 0.007889
+Collisions: 3
+Items in Bucket: 2
+
+
+Adding L7KIC with Key: 478791041 to Index: 3
+Size of Table: 100
+Entries in Table: 34
+Time taken (Put): 0.01431
+Collisions: 3
+Items in Bucket: 1
+
+
+Adding Z3FJM with Key: 132765520 to Index: 70
+Size of Table: 100
+Entries in Table: 35
+Time taken (Put): 0.007654
+Collisions: 3
+Items in Bucket: 1
+
+
+Adding EJQUN with Key: 1134297144 to Index: 6
+Size of Table: 100
+Entries in Table: 36
+Time taken (Put): 0.007361
+Collisions: 3
+Items in Bucket: 1
+
+
+Adding 0AM87 with Key: 1604721779 to Index: 63
+Size of Table: 100
+Entries in Table: 37
+Time taken (Put): 0.006863
+Collisions: 3
+Items in Bucket: 1
+
+
+Adding 014U3 with Key: 2093624075 to Index: 91
+Size of Table: 100
+Entries in Table: 38
+Time taken (Put): 0.012521
+Collisions: 3
+Items in Bucket: 1
+
+
+Adding 3MNMT with Key: 1860128980 to Index: 50
+Size of Table: 100
+Entries in Table: 39
+Time taken (Put): 0.022645
+Collisions: 3
+Items in Bucket: 1
+
+
+Adding A4OTZ with Key: 439171375 to Index: 93
+Size of Table: 100
+Entries in Table: 40
+Time taken (Put): 0.009068
+Collisions: 4
+Items in Bucket: 2
+
+
+Adding YKEQ0 with Key: 1649543391 to Index: 69
+Size of Table: 100
+Entries in Table: 41
+Time taken (Put): 0.007027
+Collisions: 4
+Items in Bucket: 1
+
+
+Adding IEE7H with Key: 1143301274 to Index: 99
+Size of Table: 100
+Entries in Table: 42
+Time taken (Put): 0.172201
+Collisions: 4
+Items in Bucket: 1
+
+
+Adding FQU8U with Key: 689458769 to Index: 23
+Size of Table: 100
+Entries in Table: 43
+Time taken (Put): 0.010424
+Collisions: 4
+Items in Bucket: 1
+
+
+Adding 7FKK2 with Key: 1169230209 to Index: 99
+Size of Table: 100
+Entries in Table: 44
+Time taken (Put): 0.041562
+Collisions: 5
+Items in Bucket: 2
+
+
+Adding 2D0EC with Key: 849025717 to Index: 70
+Size of Table: 100
+Entries in Table: 45
+Time taken (Put): 0.041397
+Collisions: 6
+Items in Bucket: 2
+
+
+Adding 67KYC with Key: 1661967841 to Index: 41
+Size of Table: 100
+Entries in Table: 46
+Time taken (Put): 0.011094
+Collisions: 6
+Items in Bucket: 1
+
+
+Adding PATNU with Key: 986671257 to Index: 42
+Size of Table: 100
+Entries in Table: 47
+Time taken (Put): 0.006209
+Collisions: 6
+Items in Bucket: 1
+
+
+Adding IE4GC with Key: 1026743534 to Index: 30
+Size of Table: 100
+Entries in Table: 48
+Time taken (Put): 0.008378
+Collisions: 7
+Items in Bucket: 2
+
+
+Adding 25R7K with Key: 18842366 to Index: 90
+Size of Table: 100
+Entries in Table: 49
+Time taken (Put): 0.004712
+Collisions: 7
+Items in Bucket: 1
+
+
+Adding ORYZE with Key: 742909014 to Index: 10
+Size of Table: 100
+Entries in Table: 50
+Time taken (Put): 0.005954
+Collisions: 8
+Items in Bucket: 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tried to GET: RM4CB
+Time taken (Get): 0.035385
+Got: RM4CB
+
+
+Tried to GET: U5CNR
+Time taken (Get): 0.015769
+Got: U5CNR
+
+
+Tried to GET: PT6ZT
+Time taken (Get): 0.00962
+Got: PT6ZT
+
+
+Tried to GET: SR6DO
+Time taken (Get): 0.009183
+Got: SR6DO
+
+
+Tried to GET: BOTKB
+Time taken (Get): 0.008269
+Got: BOTKB
+
+
+Tried to GET: JX6P7
+Time taken (Get): 0.008041
+Got: JX6P7
+
+
+Tried to GET: B8NM1
+Time taken (Get): 0.009181
+Got: B8NM1
+
+
+Tried to GET: HFTHY
+Time taken (Get): 0.019539
+Got: HFTHY
+
+
+Tried to GET: INF8E
+Time taken (Get): 0.01338
+Got: INF8E
+
+
+Tried to GET: OU05G
+Time taken (Get): 0.041705
+Got: OU05G
+
+
+Tried to GET: KU58O
+Time taken (Get): 0.071479
+Got: KU58O
+
+
+Tried to GET: GK3IK
+Time taken (Get): 0.035634
+Got: GK3IK
+
+
+Tried to GET: BWYGJ
+Time taken (Get): 0.035891
+Got: BWYGJ
+
+
+Tried to GET: 80BUS
+Time taken (Get): 0.012396
+Got: 80BUS
+
+
+Tried to GET: CC6UJ
+Time taken (Get): 0.017725
+Got: CC6UJ
+
+
+Tried to GET: GVG2S
+Time taken (Get): 0.036352
+Got: GVG2S
+
+
+Tried to GET: ESOJN
+Time taken (Get): 0.085171
+Got: ESOJN
+
+
+Tried to GET: 3EDMQ
+Time taken (Get): 0.059274
+Got: 3EDMQ
+
+
+Tried to GET: 6K9IW
+Time taken (Get): 0.041588
+Got: 6K9IW
+
+
+Tried to GET: LPX2T
+Time taken (Get): 0.031186
+Got: LPX2T
+
+
+Tried to GET: 70SWR
+Time taken (Get): 0.083124
+Got: 70SWR
+
+
+Tried to GET: T7GZO
+Time taken (Get): 0.009673
+Got: T7GZO
+
+
+Tried to GET: TNGKN
+Time taken (Get): 0.011957
+Got: TNGKN
+
+
+Tried to GET: ZUM8N
+Time taken (Get): 0.017624
+Got: ZUM8N
+
+
+Tried to GET: JFVY5
+Time taken (Get): 0.008049
+Got: JFVY5
+
+
+Tried to GET: VKF82
+Time taken (Get): 0.007203
+Got: VKF82
+
+
+Tried to GET: COAAJ
+Time taken (Get): 0.008546
+Got: COAAJ
+
+
+Tried to GET: CWMWC
+Time taken (Get): 0.007645
+Got: CWMWC
+
+
+Tried to GET: QNV6L
+Time taken (Get): 0.007295
+Got: QNV6L
+
+
+Tried to GET: OD7EC
+Time taken (Get): 0.006243
+Got: OD7EC
+
+
+Tried to GET: ONVX6
+Time taken (Get): 0.008392
+Got: ONVX6
+
+
+Tried to GET: B25U1
+Time taken (Get): 0.007092
+Got: B25U1
+
+
+Tried to GET: 2TL8G
+Time taken (Get): 0.008573
+Got: 2TL8G
+
+
+Tried to GET: L7KIC
+Time taken (Get): 0.010862
+Got: L7KIC
+
+
+Tried to GET: Z3FJM
+Time taken (Get): 0.008922
+Got: Z3FJM
+
+
+Tried to GET: EJQUN
+Time taken (Get): 0.010601
+Got: EJQUN
+
+
+Tried to GET: 0AM87
+Time taken (Get): 0.009433
+Got: 0AM87
+
+
+Tried to GET: 014U3
+Time taken (Get): 0.007505
+Got: 014U3
+
+
+Tried to GET: 3MNMT
+Time taken (Get): 0.013566
+Got: 3MNMT
+
+
+Tried to GET: A4OTZ
+Time taken (Get): 0.00946
+Got: A4OTZ
+
+
+Tried to GET: YKEQ0
+Time taken (Get): 0.072224
+Got: YKEQ0
+
+
+Tried to GET: IEE7H
+Time taken (Get): 0.011563
+Got: IEE7H
+
+
+Tried to GET: FQU8U
+Time taken (Get): 0.010084
+Got: FQU8U
+
+
+Tried to GET: 7FKK2
+Time taken (Get): 0.008283
+Got: 7FKK2
+
+
+Tried to GET: 2D0EC
+Time taken (Get): 0.008071
+Got: 2D0EC
+
+
+Tried to GET: 67KYC
+Time taken (Get): 0.007505
+Got: 67KYC
+
+
+Tried to GET: PATNU
+Time taken (Get): 0.007275
+Got: PATNU
+
+
+Tried to GET: IE4GC
+Time taken (Get): 0.007655
+Got: IE4GC
+
+
+Tried to GET: 25R7K
+Time taken (Get): 0.008099
+Got: 25R7K
+
+
+Tried to GET: ORYZE
+Time taken (Get): 0.008026
+Got: ORYZE
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tried to REMOVE: RM4CB
+Time taken (Remove): 0.022802
+Removed: RM4CB
+
+
+Tried to REMOVE: U5CNR
+Time taken (Remove): 0.060378
+Removed: U5CNR
+
+
+Tried to REMOVE: PT6ZT
+Time taken (Remove): 0.210367
+Removed: PT6ZT
+
+
+Tried to REMOVE: SR6DO
+Time taken (Remove): 0.013376
+Removed: SR6DO
+
+
+Tried to REMOVE: BOTKB
+Time taken (Remove): 0.010482
+Removed: BOTKB
+
+
+Tried to REMOVE: JX6P7
+Time taken (Remove): 0.009113
+Removed: JX6P7
+
+
+Tried to REMOVE: B8NM1
+Time taken (Remove): 0.023222
+Removed: B8NM1
+
+
+Tried to REMOVE: HFTHY
+Time taken (Remove): 0.010313
+Removed: HFTHY
+
+
+Tried to REMOVE: INF8E
+Time taken (Remove): 0.01245
+Removed: INF8E
+
+
+Tried to REMOVE: OU05G
+Time taken (Remove): 0.009208
+Removed: OU05G
+
+
+Tried to REMOVE: KU58O
+Time taken (Remove): 0.009983
+Removed: KU58O
+
+
+Tried to REMOVE: GK3IK
+Time taken (Remove): 0.00695
+Removed: GK3IK
+
+
+Tried to REMOVE: BWYGJ
+Time taken (Remove): 0.007591
+Removed: BWYGJ
+
+
+Tried to REMOVE: 80BUS
+Time taken (Remove): 0.007748
+Removed: 80BUS
+
+
+Tried to REMOVE: CC6UJ
+Time taken (Remove): 0.007446
+Removed: CC6UJ
+
+
+Tried to REMOVE: GVG2S
+Time taken (Remove): 0.008054
+Removed: GVG2S
+
+
+Tried to REMOVE: ESOJN
+Time taken (Remove): 0.00646
+Removed: ESOJN
+
+
+Tried to REMOVE: 3EDMQ
+Time taken (Remove): 0.007107
+Removed: 3EDMQ
+
+
+Tried to REMOVE: 6K9IW
+Time taken (Remove): 0.00812
+Removed: 6K9IW
+
+
+Tried to REMOVE: LPX2T
+Time taken (Remove): 0.008272
+Removed: LPX2T
+
+
+Tried to REMOVE: 70SWR
+Time taken (Remove): 0.009045
+Removed: 70SWR
+
+
+Tried to REMOVE: T7GZO
+Time taken (Remove): 0.006045
+Removed: T7GZO
+
+
+Tried to REMOVE: TNGKN
+Time taken (Remove): 0.057813
+Removed: TNGKN
+
+
+Tried to REMOVE: ZUM8N
+Time taken (Remove): 0.011482
+Removed: ZUM8N
+
+
+Tried to REMOVE: JFVY5
+Time taken (Remove): 0.009332
+Removed: JFVY5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tried to GET: RM4CB
+Time taken (Get): 0.015707
+Got: NULL
+
+
+Tried to GET: U5CNR
+Time taken (Get): 0.020367
+Got: NULL
+
+
+Tried to GET: PT6ZT
+Time taken (Get): 0.014467
+Got: NULL
+
+
+Tried to GET: SR6DO
+Time taken (Get): 0.043856
+Got: NULL
+
+
+Tried to GET: BOTKB
+Time taken (Get): 0.008183
+Got: NULL
+
+
+Tried to GET: JX6P7
+Time taken (Get): 0.007787
+Got: NULL
+
+
+Tried to GET: B8NM1
+Time taken (Get): 0.007586
+Got: NULL
+
+
+Tried to GET: HFTHY
+Time taken (Get): 0.0104
+Got: NULL
+
+
+Tried to GET: INF8E
+Time taken (Get): 0.072894
+Got: NULL
+
+
+Tried to GET: OU05G
+Time taken (Get): 0.008363
+Got: NULL
+
+
+Tried to GET: KU58O
+Time taken (Get): 0.007973
+Got: NULL
+
+
+Tried to GET: GK3IK
+Time taken (Get): 0.007836
+Got: NULL
+
+
+Tried to GET: BWYGJ
+Time taken (Get): 0.007547
+Got: NULL
+
+
+Tried to GET: 80BUS
+Time taken (Get): 0.008847
+Got: NULL
+
+
+Tried to GET: CC6UJ
+Time taken (Get): 0.007631
+Got: NULL
+
+
+Tried to GET: GVG2S
+Time taken (Get): 0.007651
+Got: NULL
+
+
+Tried to GET: ESOJN
+Time taken (Get): 0.007387
+Got: NULL
+
+
+Tried to GET: 3EDMQ
+Time taken (Get): 0.007769
+Got: NULL
+
+
+Tried to GET: 6K9IW
+Time taken (Get): 0.00808
+Got: NULL
+
+
+Tried to GET: LPX2T
+Time taken (Get): 0.007646
+Got: NULL
+
+
+Tried to GET: 70SWR
+Time taken (Get): 0.008469
+Got: NULL
+
+
+Tried to GET: T7GZO
+Time taken (Get): 0.007507
+Got: NULL
+
+
+Tried to GET: TNGKN
+Time taken (Get): 0.00757
+Got: NULL
+
+
+Tried to GET: ZUM8N
+Time taken (Get): 0.008346
+Got: NULL
+
+
+Tried to GET: JFVY5
+Time taken (Get): 0.007553
+Got: NULL
+
+
+Tried to GET: VKF82
+Time taken (Get): 0.007582
+Got: VKF82
+
+
+Tried to GET: COAAJ
+Time taken (Get): 0.013415
+Got: COAAJ
+
+
+Tried to GET: CWMWC
+Time taken (Get): 0.008126
+Got: CWMWC
+
+
+Tried to GET: QNV6L
+Time taken (Get): 0.021563
+Got: QNV6L
+
+
+Tried to GET: OD7EC
+Time taken (Get): 0.016602
+Got: OD7EC
+
+
+Tried to GET: ONVX6
+Time taken (Get): 0.009931
+Got: ONVX6
+
+
+Tried to GET: B25U1
+Time taken (Get): 0.007422
+Got: B25U1
+
+
+Tried to GET: 2TL8G
+Time taken (Get): 0.010153
+Got: 2TL8G
+
+
+Tried to GET: L7KIC
+Time taken (Get): 0.007755
+Got: L7KIC
+
+
+Tried to GET: Z3FJM
+Time taken (Get): 0.007651
+Got: Z3FJM
+
+
+Tried to GET: EJQUN
+Time taken (Get): 0.007688
+Got: EJQUN
+
+
+Tried to GET: 0AM87
+Time taken (Get): 0.007805
+Got: 0AM87
+
+
+Tried to GET: 014U3
+Time taken (Get): 0.00764
+Got: 014U3
+
+
+Tried to GET: 3MNMT
+Time taken (Get): 0.007232
+Got: 3MNMT
+
+
+Tried to GET: A4OTZ
+Time taken (Get): 0.007729
+Got: A4OTZ
+
+
+Tried to GET: YKEQ0
+Time taken (Get): 0.007282
+Got: YKEQ0
+
+
+Tried to GET: IEE7H
+Time taken (Get): 0.006907
+Got: IEE7H
+
+
+Tried to GET: FQU8U
+Time taken (Get): 0.00846
+Got: FQU8U
+
+
+Tried to GET: 7FKK2
+Time taken (Get): 0.007323
+Got: 7FKK2
+
+
+Tried to GET: 2D0EC
+Time taken (Get): 0.007078
+Got: 2D0EC
+
+
+Tried to GET: 67KYC
+Time taken (Get): 0.007381
+Got: 67KYC
+
+
+Tried to GET: PATNU
+Time taken (Get): 0.007148
+Got: PATNU
+
+
+Tried to GET: IE4GC
+Time taken (Get): 0.007874
+Got: IE4GC
+
+
+Tried to GET: 25R7K
+Time taken (Get): 0.006827
+Got: 25R7K
+
+
+Tried to GET: ORYZE
+Time taken (Get): 0.007168
+Got: ORYZE
